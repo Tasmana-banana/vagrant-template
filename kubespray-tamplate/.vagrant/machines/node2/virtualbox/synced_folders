@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/ihor/vagrant-template/kubespray-tamplate","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
